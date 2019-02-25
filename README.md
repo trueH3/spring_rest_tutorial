@@ -4,8 +4,8 @@ https://spring.io/guides/tutorials/rest/ <br/>
 
 used technologies:
 
-*spring-boot
-*spring HATEOAS
+* spring-boot
+* spring HATEOAS
 
 
 
